@@ -15,7 +15,7 @@ This is my personal portfolio website using HTML and Tailwind CSS.
 
 ## How to Use:
 1. Clone the repository:  
-   git clone https://github.com/Hetvi-Gohel-312/portfolio.git  
+   git clone https://github.com/Badal07aman07kahalgaon/Personal-Portfolio-.git
 2. Open index.html in a browser.  
 3. Customize as needed.  
 
