@@ -23,4 +23,4 @@ This is my personal portfolio website using HTML and Tailwind CSS.
 - LinkedIn: Hetvi Gohel  
 - GitHub: Hetvi-Gohel-312  
 
-Designed with ❤️ by Hetvi Gohel  
+Designed with ❤️ by Badal Kumar Aman
